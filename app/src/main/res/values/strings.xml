@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignement - 1</string>
+    <string name="text_name">Name</string>
+    <string name="text_name_2">Email address</string>
+</resources>
